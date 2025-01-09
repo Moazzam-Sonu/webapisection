@@ -54,11 +54,11 @@ dotnet run
 
 🌐 API Endpoints
 🛠️ HTTP Method	🌍 Endpoint	📝 Description
-POST	/items	Add a new item
-GET	/items	Retrieve all items
-GET	/items/{id}	Retrieve an item by ID
-PUT	/items/{id}	Update an item by ID
-DELETE	/items/{id}	Delete an item by ID
+POST	/employee	Add a new item
+GET	/employee	Retrieve all items
+GET	/employee/{id}	Retrieve an item by ID
+PUT	/employee/{id}	Update an item by ID
+DELETE	/employee/{id}	Delete an item by ID
 📂 Project Structure
 vbnet
 Copy code
