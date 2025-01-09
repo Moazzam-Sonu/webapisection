@@ -1,0 +1,6 @@
+@curd.webApi_HostAddress = http://localhost:5251
+
+GET {{curd.webApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
